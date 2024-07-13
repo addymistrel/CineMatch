@@ -5,3 +5,7 @@ Important points to remember
 3. Check for duplicate values
 4. keep tags in list of words
 5. dont keep space in between of a string
+6. Convert into vectors
+    3 methods - bag full of words(used), ididf, word2vec
+7. apply stemming
+8. in higher dimension we should prevent using euclidian distance instead we can use cosine distance
