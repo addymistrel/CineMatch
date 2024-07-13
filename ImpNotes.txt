@@ -1,1 +1,7 @@
 Important points to remember
+
+1. Remove unwamted columns
+2. Remove rows that contains null values in any column
+3. Check for duplicate values
+4. keep tags in list of words
+5. dont keep space in between of a string
